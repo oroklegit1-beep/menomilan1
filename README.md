@@ -1,7 +1,7 @@
 [theme.theme.css](https://github.com/user-attachments/files/23559191/theme.theme.css)
 /**
  * @name Custom Theme
- * @author You
+ * @author Potato
  * @version 1.0
  * @description A customizable BetterDiscord theme
  * @source https://github.com/
